@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 弘明集
+#+DATE: 2015-08-30 22:20:49.272096
+#+PROPERTY: JUAN 0
