@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
-<md:KR6r0137_T_001-0009b>¶
-
 <pb:KR6r0137_SBCK_002-1a>
 弘明集卷第二¶¶
 　　　　　　　　　梁　釋　僧　祐　撰¶
