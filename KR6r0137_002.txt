@@ -561,7 +561,14 @@
 哉
 <pb:KR6r0137_SBCK_002-26b>
 弘明集卷第二<md:KR6r0137_T_002-0016b>¶
+
+# SB1_0472-144.png
+# page missing
+# SB1_0472-145.png
+# page missing
+# ?
 <pb:KR6r0137_SBCK_003-1a>
+# SB1_0473-002.png
 &KR0042;明集卷第三¶¶
 　　　　　　　　　梁　釋　僧　祐　撰
 　　與宗居士書　宋何承天
