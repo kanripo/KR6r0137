@@ -4,8 +4,8 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
-
-十一¶¶
+<pb:KR6r0137_SBCK_011-1a>
+&KR0042;明集卷第十一¶¶
 　　　　　　　　　梁　釋　僧　祐　撰¶
 　　答宋文帝讚&KR0045;佛教事¶　宋¶¶¶¶¶¶¶¶何尚之¶
 元嘉十二年五月乙酉有司奏丹陽尹蕭¶摹之上言
@@ -580,6 +580,9 @@
 <pb:KR6r0137_SBCK_011-27b>
 &KR0042;明集卷第十一¶
 
-<pb:KR6r0137_SBCK_012-1a>
-&KR0042;明集卷第十二¶¶
-　　　　　　　　　梁　釋　僧　祐　撰
+# SB1_0475-164.png
+# page missing
+# SB1_0475-165.png
+# page missing
+# SB1_0475-166.png
+# page missing

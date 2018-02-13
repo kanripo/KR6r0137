@@ -4,7 +4,10 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
-
+<pb:KR6r0137_SBCK_008-1a>
+# SB1_0474-102.png
+&KR0042;明集卷第八¶¶
+　　　　　　　　　梁　釋　僧　祐　撰¶
 辯惑論(并¶¶序)釋&KR0007;光¶
 夫大千遐邈萬化無際塵遊夢境染惑聲華¶縁想增
 靄奚識明政由淳風漓薄使衆魔紛¶競矣若矯詐謀
@@ -456,7 +459,8 @@
 莊子又云道在屎溺此屎溺之道得¶非吾子合氣之
 道乎¶
 &KR0042;明集卷之八<md:KR6r0137_T_008-0054a>¶
-<pb:KR6r0137_SBCK_009-1a>
-&KR0042;明集卷第九¶¶
-　　　　　　　　　梁　釋　僧　祐　撰¶
-　　
+
+# SB1_0474-144.png
+# page missing
+# SB1_0474-145.png
+# page missing

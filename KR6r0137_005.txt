@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
-¶
-
 <pb:KR6r0137_SBCK_005-1a>
 弘明集卷第五¶¶
 　　　　　　　　　梁　釋　僧　祐　撰¶
@@ -610,7 +608,7 @@
 源盡¶化鏡萬象於無象者也
 <pb:KR6r0137_SBCK_005-28b>
 &KR0042;明集卷第五<md:KR6r0137_T_005-0035a>¶
-<pb:KR6r0137_SBCK_006-1a>
-&KR0042;明集卷第六¶¶
-　　　　　　　　　梁　釋　僧　祐　撰¶
-　　釋駮論(并序)晉
+# SB1_0473-142.png
+# page missing
+# SB1_0473-143.png
+# page missing

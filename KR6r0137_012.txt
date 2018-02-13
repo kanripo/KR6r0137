@@ -4,6 +4,9 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+<pb:KR6r0137_SBCK_012-1a>
+&KR0042;明集卷第十二¶¶
+　　　　　　　　　梁　釋　僧　祐　撰
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 余所撰&KR0042;明竝集䕶法之論然爰録書表<md:KR6r0137_T_012-0076c>¶者葢事深
 故也尋沙門辭世爵祿弗縻漢魏¶以来歷經英聖皆
@@ -757,7 +760,7 @@
 <pb:KR6r0137_SBCK_012-35b>
 &KR0042;明集卷第十二¶
 
-<pb:KR6r0137_SBCK_013-1a>
-&KR0042;明集卷第十三¶¶
-　　　　　　　　　梁　釋　僧　祐　撰¶
-　　
+# SB1_0476-072.png
+# page missing
+# SB1_0476-073.png
+# page missing　　

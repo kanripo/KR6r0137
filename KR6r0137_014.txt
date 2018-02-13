@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
-¶
-
 <pb:KR6r0137_SBCK_014-1a>
 弘明集卷第十四¶¶
 　　　　　　　　　梁　釋　僧　祐　撰¶
@@ -391,3 +389,10 @@
 現世幽徴備詳典籍来生冥應布¶在尊經但緣感理
 奥因果義微微奥難領故¶畧而不陳前哲所辨關鍵
 已正聊率鄙懷繼<md:KR6r0137_T_014-0096b>¶之于末雖文非珪璋而事足鞶鑑
+
+# SB1_0476-149.png
+# page missing
+# SB1_0476-150.png
+# page missing
+# SB1_0476-151.png
+# page missing

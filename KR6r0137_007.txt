@@ -4,6 +4,10 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+<pb:KR6r0137_SBCK_007-1a>
+&KR0042;明集卷第七¶¶
+　　　　　　　　　梁　釋　僧　祐　撰¶
+　　¶¶難顧道士夷夏論(并書)宋
 
 朱昭之¶
 見足下髙談夷夏辨商二教條勒經㫖冥然¶&KR0007;㑹妙
@@ -400,7 +404,7 @@
 <pb:KR6r0137_SBCK_007-19b>
 弘明集卷第七¶
 
-<pb:KR6r0137_SBCK_008-1a>
-&KR0042;明集卷第八¶¶
-　　　　　　　　　梁　釋　僧　祐　撰¶
-　　
+# SB1_0474-100.png
+# page missing
+# SB1_0474-101.png
+# page missing

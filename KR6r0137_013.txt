@@ -4,8 +4,10 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
-
-奉法要　晉郄超¶¶¶
+<pb:KR6r0137_SBCK_013-1a>
+&KR0042;明集卷第十三¶¶
+　　　　　　　　　梁　釋　僧　祐　撰¶
+　　奉法要　晉郄超¶¶¶
 三自歸者歸佛歸十二部經歸比丘僧過去¶現在當
 来三世十方佛三世十方經法三¶世十方僧毎禮拜
 懺悔皆當至心歸命幷慈¶念一切衆生願令悉得度
@@ -403,3 +405,8 @@
 思寄一¶隅於梗指俟體信於明識者乎
 <pb:KR6r0137_SBCK_013-19b>
 &KR0042;明集卷第十三
+
+# SB1_0476-112.png
+# page missing
+# SB1_0476-113.png
+# page missing
